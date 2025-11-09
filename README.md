@@ -57,7 +57,7 @@ streamlit run app.py
    - The query is sent directly to the selected Hugging Face model
    - The model processes the query and generates a response
 
-3. **Response**: The model returns a response based on its training data
+3. **Response**: This model returns a response based on its training data
 
 ## Project Structure
 
